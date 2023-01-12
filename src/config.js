@@ -1,39 +1,39 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Sanodya Rajapaksha',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Sanodya Rajapaksha is an incoming Software Developer, based in Sri Lanka, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Sanodya Rajapaksha, Sanodya, software engineer, web developer, javascript, python, java, svvv, indore',
+  siteUrl: 'https://sanodyarajapaksha.me/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  // googleAnalyticsID: 'UA-45666519-2',
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Sanodya Rajapaksha',
+  location: ',Kurunegala, Sri Lanka',
+  email: 'hello@sanodyarajapaksha.me',
+  github: 'https://github.com/IT21504204',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/IT21504204',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/sanodya-rajapaksha-748095247/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/yashitanamdeo',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/_sanodya_rajapaksha_/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/',
+    // },
   ],
 
   navLinks: [
