@@ -1,17 +1,15 @@
 ---
 date: '4'
-title: 'Online Food Delivery App for Foodi(PVT)Ltd'
+title: 'AI Face Landmark Detection'
 cover: 'face-landmark.png'
-github: 'https://github.com/IT21504204/Y2S2-Foodi-MAD-Project'
-external: ''
+github: 'https://github.com/yashitanamdeo/face-landmark-detection'
+external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
 tech:
-   - Android Studio
-  - Java
-  - Firebase Realtime Database
-  - Firebase Storage
+  - TensorFlow.JS
+  - React
 showInProjects: true
 ---
 
-An Online Food Sales Management app called 'Foodi' was developed  for the second year second semester Mobole Application Development Project.
+Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
 
-This app provides interfaces for both Customers and Resturents to achieve required tasks in a friendly way. This app helps to strengthen the interactions between the Customer and the Resturent Owners.
+Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
