@@ -1,7 +1,7 @@
 ---
 date: '2021-09-12'
 title: 'Wildlife Safari Trip Management System'
-github: 'https://github.com/yashitanamdeo/AlarmClock'
+github: 'https://github.com/IT21504204/Wild_Life_Safari_Management_System'
 external: 'https://wildlife.sanodyarajapaksha.me/'
 tech:
   - HTML

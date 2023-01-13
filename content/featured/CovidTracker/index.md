@@ -1,18 +1,20 @@
 ---
 date: '1'
-title: 'Covid-19 Tracker'
+title: 'Wildlife Safari Trip Management System'
 cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+github: 'https://github.com/IT21504204/Wild_Life_Safari_Management_System'
+external: 'https://wildlife.sanodyarajapaksha.me/'
 tech:
-  - ReactJS
-  - Firebase
-  - Material UI
+  - HTML
+  - CSS
+  - JavaScript
+  - php 
+  - Apache
+  - phpMyAdmin
 
 showInProjects: true
 ---
 
-Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
-deaths(clickable tabs) in 180+ countries worldwide. Directed to display 2 features – worldwide cases and countries based report; clickable markers on the map to show country stats and line chart for fluctuations over days, on hover, gives exact figures.
+This was our second semester project, where we developed a simple website for users who intend to go to a wildlife safari to spend their vacation. There are varieties of packages for customers to choose from, based on their preferences and affordability. This also has an attractive GUI, grabbing the attention of the users.
 
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+<!-- Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ). -->
