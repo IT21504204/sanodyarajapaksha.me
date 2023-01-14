@@ -4,7 +4,7 @@ title: 'Online Electronic Application Marketing Management System for Synthetic 
 github: 'https://github.com/SLIITITP/y2_s2_wd_it_02-wd_b02_itp_09'
 external: 'https://itp.sanodyarajapaksha.me/'
 tech:
- - React.js
+  - React.js
   - MongoDB
   - Express.js
   - Node.js
