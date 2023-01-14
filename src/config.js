@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Sanodya Rajapaksha is an incoming Software Developer, based in Sri Lanka, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Sanodya Rajapaksha, Sanodya, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Sanodya Rajapaksha, Sanodya, software engineer, web developer, javascript, python, java,',
   siteUrl: 'https://sanodyarajapaksha.me/',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
