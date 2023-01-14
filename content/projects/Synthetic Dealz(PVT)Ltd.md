@@ -13,6 +13,8 @@ showInProjects: true
 ---
 `Synthetic Dealz' is a well-known company involved in electronic applicant retail and wholesale marketing.
 Synthetic Dealz service centers are well-equipped with a wide range if machinery and a highly trained staff to provide 365-days best aftermarket service and repairs.
+
 This Electronic applicant marketing management system is a web-based application that handles diffferent eight section of the company.
 So, we decided to build an online web based application.
+
 Rather than that customer can order and buy the electrical equipment through this web-based application and company will give and efficient delivery for them.
